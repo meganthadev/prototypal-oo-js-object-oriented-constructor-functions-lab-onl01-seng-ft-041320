@@ -1,0 +1,1 @@
+fucntion Scuber(year, color)
