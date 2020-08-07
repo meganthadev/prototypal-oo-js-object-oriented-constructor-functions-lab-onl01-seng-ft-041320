@@ -6,6 +6,6 @@ function Driver (name, age, experience ){
   
 }
 
-function PickupLocation (year, color, model){
+function PickupLocation (address , color){
   
 }
