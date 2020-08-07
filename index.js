@@ -1,5 +1,9 @@
 function Scuber(year, color, model){
-  
+  return {
+    year, 
+    color,
+    model,
+  }
 }
 
 function Driver (name, age, experience ){
