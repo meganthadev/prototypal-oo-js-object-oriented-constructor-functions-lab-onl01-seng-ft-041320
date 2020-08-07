@@ -6,6 +6,6 @@ function Driver (year, color, model){
   
 }
 
-function Scuber(year, color, model){
+function PickupLocation (year, color, model){
   
 }
