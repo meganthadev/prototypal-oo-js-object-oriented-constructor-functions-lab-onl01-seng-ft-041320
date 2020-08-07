@@ -1,1 +1,3 @@
-fucntion Scuber(year, color)
+function Scuber(year, color, model){
+  
+}
